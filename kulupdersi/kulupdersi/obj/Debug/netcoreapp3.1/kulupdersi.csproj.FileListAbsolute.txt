@@ -1,0 +1,14 @@
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\bin\Debug\netcoreapp3.1\kulupdersi.exe
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\bin\Debug\netcoreapp3.1\kulupdersi.deps.json
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\bin\Debug\netcoreapp3.1\kulupdersi.runtimeconfig.json
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\bin\Debug\netcoreapp3.1\kulupdersi.runtimeconfig.dev.json
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\bin\Debug\netcoreapp3.1\kulupdersi.dll
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\bin\Debug\netcoreapp3.1\kulupdersi.pdb
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\obj\Debug\netcoreapp3.1\kulupdersi.csproj.AssemblyReference.cache
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\obj\Debug\netcoreapp3.1\kulupdersi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\obj\Debug\netcoreapp3.1\kulupdersi.AssemblyInfoInputs.cache
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\obj\Debug\netcoreapp3.1\kulupdersi.AssemblyInfo.cs
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\obj\Debug\netcoreapp3.1\kulupdersi.csproj.CoreCompileInputs.cache
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\obj\Debug\netcoreapp3.1\kulupdersi.dll
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\obj\Debug\netcoreapp3.1\kulupdersi.pdb
+C:\Users\ALKEV\source\repos\kulupdersi\kulupdersi\obj\Debug\netcoreapp3.1\kulupdersi.genruntimeconfig.cache
